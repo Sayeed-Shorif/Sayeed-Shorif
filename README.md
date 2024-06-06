@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Python and want to become a Python developer.<br>👯 I’m looking to collaborate on open-source Python projects and learn from experienced developers.<br>🤝 I’m looking for help with improving my Python skills and understanding best practices.<br>🌱 I’m currently learning Python and exploring various Python libraries and frameworks.<br>💬 Ask me about Python, my learning journey, or any questions related to the projects I've undertaken. I'm always happy to share knowledge and experiences. <br>⚡ Fun fact: I believe that Python is not just a programming language but a superpower that can be used to solve real-world problems in exciting ways.
+
 
 
 ## 🌐 Socials:
